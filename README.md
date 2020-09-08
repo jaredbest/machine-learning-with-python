@@ -1,2 +1,5 @@
-Machine Learning with Python course by IBM on Coursera <br>
-Part of IBM Data Science Professional Certificate specialization
+# Course Repo
+- **Title:** Machine Learning with Python
+- **Creator(s):** IBM
+- **Platform:** Coursera
+- **Note(s):** Part of the IBM Data Science Professional Certificate specialization
